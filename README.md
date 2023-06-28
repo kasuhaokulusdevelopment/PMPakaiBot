@@ -1,15 +1,15 @@
 # telegram-pm-bot
-concatnate your conversation between the bot and the sender.
+Ruang Chat perbualan antara Kita sebagai BOT dengan Pengguna biasa
 
-based on [telegram-pm-chat-bot](https://github.com/Netrvin/telegram-pm-chat-bot).
+Berdasar Ciptaan [telegram-pm-chat-bot](https://github.com/Netrvin/telegram-pm-chat-bot).
 
 
-## Installation
-firstly prepared the following:
+## KEMASUKAN FILE DATA
+PERSEDIAAN PERTAMA:KATA ARAH
 - python 3
 - pip
 
-then run :
+ JANAKAN KEMASUKAN DATA:
 ```bash
 pip install python-telegram-bot --upgrade
 ```
